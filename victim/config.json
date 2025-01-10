@@ -1,0 +1,10 @@
+{
+    "ip": "192.168.0.146",
+    "port": 20000,
+    "id": "LAPTOP-QLF7NACS",
+    "ransomware_key": "",
+    "modules": [],
+    "executed_modules": [
+        "antivirusModule.Antivirusmodule"
+    ]
+}
